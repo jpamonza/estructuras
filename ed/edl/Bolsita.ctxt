@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=args
+comment0.target=void\ main(java.lang.String[])
+comment1.params=
+comment1.target=Bolsita()
+comment2.params=
+comment2.target=boolean\ vacia()
+comment3.params=dato
+comment3.target=void\ insertar(java.lang.Object)
+comment4.params=n
+comment4.target=void\ insertar(ed.NodoBolsita)
+comment5.params=dato
+comment5.target=ed.NodoBolsita\ buscar(java.lang.Object)
+comment6.params=
+comment6.target=java.lang.String\ toString()
+numComments=7

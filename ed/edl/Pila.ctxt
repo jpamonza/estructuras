@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Pila()
+comment1.params=dato
+comment1.target=Pila(java.lang.Object)
+comment2.params=
+comment2.target=void\ invertir()
+comment3.params=ant\ act
+comment3.target=void\ invertir(NodoSE,\ NodoSE)
+comment4.params=
+comment4.target=Pila\ clone()
+comment5.params=
+comment5.target=boolean\ vacia()
+comment6.params=dato
+comment6.target=void\ push(java.lang.Object)
+comment7.params=
+comment7.target=java.lang.Object\ pop()
+comment8.params=
+comment8.target=java.lang.Object\ peek()
+numComments=9

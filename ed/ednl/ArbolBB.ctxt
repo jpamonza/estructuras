@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=
+comment0.target=ArbolBB()
+comment1.params=
+comment1.target=boolean\ vacio()
+comment2.params=dato
+comment2.target=java.lang.Comparable\ buscar(java.lang.Comparable)
+comment3.params=dato
+comment3.target=boolean\ eliminar(java.lang.Comparable)
+numComments=4

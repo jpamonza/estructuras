@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.params=dato\ comp
+comment0.target=NodoPrioridad(java.lang.Object,\ java.lang.Comparable)
+comment1.params=
+comment1.target=java.lang.Object\ getDato()
+comment1.text=\r\n\ METODOS\ DE\ ACCESO\r\n
+comment2.params=
+comment2.target=java.lang.Comparable\ getComp()
+comment3.params=
+comment3.target=NodoPrioridad\ getSig()
+comment4.params=nuevoDato
+comment4.target=void\ setDato(java.lang.Object)
+comment4.text=\r\n\ METODO\ DE\ MODIFICACION\r\n
+comment5.params=nuevoEnlace
+comment5.target=void\ setSig(NodoPrioridad)
+comment6.params=nuevoComp
+comment6.target=void\ setComp(java.lang.Comparable)
+numComments=7

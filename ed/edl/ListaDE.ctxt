@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.params=
+comment0.target=ListaDE()
+comment1.params=
+comment1.target=boolean\ vacia()
+comment2.params=dato
+comment2.target=void\ insertar(java.lang.Object)
+comment3.params=pos
+comment3.target=java.lang.Object\ eliminar(int)
+comment4.params=dato\ actual
+comment4.target=void\ insertar(java.lang.Object,\ NodoDE)
+comment5.params=dato\ pos
+comment5.target=void\ insertar(java.lang.Object,\ int)
+comment6.params=pos
+comment6.target=java.lang.Object\ acceder(int)
+comment7.params=pos\ actual
+comment7.target=java.lang.Object\ acceder(int,\ NodoDE)
+comment8.params=
+comment8.target=int\ longitud()
+comment9.params=actual
+comment9.target=int\ longitud(NodoDE)
+numComments=10

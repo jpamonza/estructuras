@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.params=d
+comment0.target=NodoBolsita(java.lang.Object)
+comment1.params=o
+comment1.target=boolean\ equals(java.lang.Object)
+comment10.params=s
+comment10.target=void\ setSuc(ed.NodoBolsita)
+comment11.params=
+comment11.target=java.lang.String\ toString()
+comment2.params=
+comment2.target=void\ aumentarCant()
+comment3.params=o
+comment3.target=int\ compareTo(ed.NodoBolsita)
+comment4.params=
+comment4.target=int\ getCant()
+comment5.params=
+comment5.target=java.lang.Object\ getDato()
+comment6.params=d
+comment6.target=void\ setDato(java.lang.Object)
+comment7.params=
+comment7.target=ed.NodoBolsita\ getAnt()
+comment8.params=a
+comment8.target=void\ setAnt(ed.NodoBolsita)
+comment9.params=
+comment9.target=ed.NodoBolsita\ getSuc()
+numComments=12
